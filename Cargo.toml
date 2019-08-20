@@ -1,0 +1,10 @@
+[package]
+name = "bovine-inventory-rust"
+version = "0.0.1"
+authors = ["zahodi"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { git = "https://github.com/clap-rs/clap" }
