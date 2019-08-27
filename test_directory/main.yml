@@ -1,0 +1,9 @@
+---
+group:
+  my_first_group:
+    vars:
+      first_var: 1
+      second_var: 2
+    hosts:
+      host1:
+      host2:
