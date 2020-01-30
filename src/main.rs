@@ -5,6 +5,7 @@ use std::io;
 use std::env;
 use std::path::Path;
 use std::fs;
+mod yaml_parse;
 
 fn main() {
     visit_dirs();
